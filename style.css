@@ -1,0 +1,23 @@
+#corpo {
+    background-image: url(nova.jpg)
+}
+
+#texto {
+    text-align: center;
+    font-style: unset;
+
+}
+
+#nome {
+    text-align: center;
+
+}
+
+#t1 {
+    color: white;
+}
+
+#botoes {
+    text-align: center;
+    color: white;
+}
