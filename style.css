@@ -8,6 +8,19 @@
 
 }
 
+  .box {
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    border: 2px solid #007bff;
+    margin: 10px;
+    background-color: #f7f7f7;
+    box-sizing: border-box;
+  }
+
+
+
+
 #nome {
     text-align: center;
 
